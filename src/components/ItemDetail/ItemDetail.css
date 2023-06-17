@@ -1,0 +1,16 @@
+.contenedorItem{
+    text-align: center;
+    border: 1px solid #c74a4a;
+    margin: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imgProductoDetails{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.texto-detail {
+    color: #b62020;
+}
